@@ -1,4 +1,4 @@
 # Demo-Repository
 Learning Git Again 
 <br>
-Author Pritam Hiras
+Author Pritam Anil Hiras
